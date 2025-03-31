@@ -10,7 +10,7 @@ except FileNotFoundError as myEx:
     raise Exception(myEx)
 
 setup(
-    name="finrl-meta",
+    name="finrl_meta",
     version="0.3.7",
     author="AI4Finance Foundation",
     author_email="contact@ai4finance.org",
